@@ -1,0 +1,65 @@
+metadata_version: 1
+name: QUANNOTATE for Quality Assessment of Radiological Images
+description: Multi-institutional trials involving modern radiotherapy (RT) techniques
+  are unique in that treatment quality can be assessed by reviewing digitized medical
+  images and associated RT structures. Nonetheless, quality assurance (QA) of large-scale
+  trials is always challenging because of time-consuming processes for collecting
+  and reviewing hundreds or thousands of individual cases. We developed QUANNOTATE,
+  a web-application that allows rapid review of large numbers of RT target volumes
+  in an easily accessible format without requiring access to the RT planning system
+  (https://www.quannotate.com). We used QUANNOTATE to evaluate the relationship between
+  target delineation compliance with the international guidelines and treatment outcomes
+  in nasopharyngeal carcinoma (NPC) patients undergoing definitive RT. Despite highly
+  guideline-compliant coverage of critical structures, undercoverage of cavernous
+  sinus was correlated with increased local failure. Data standardization is a key
+  issue in medical image-based radiomics studies, and our data suggest that radiomics
+  analysis should be preceded by detailed QA analysis to ensure outcomes are not confounded
+  due to variance in treatment related factors as opposed to tumor factors.
+authors:
+- name: Jun Won Kim
+  affiliations:
+  - name: Department of Radiation Oncology, Gangnam Severance Hospital, Yonsei University
+      College of Medicine, Seoul, Korea
+- name: Joseph Marsilla
+  affiliations:
+  - name: Princess Margaret Cancer Center, University Health Network, Toronto, Ontario,
+      Canada
+- name: Michal Kazmierski
+  affiliations:
+  - name: Princess Margaret Cancer Center, University Health Network, Toronto, Ontario,
+      Canada
+- name: Denis Tkachuk
+  affiliations:
+  - name: Princess Margaret Cancer Center, University Health Network, Toronto, Ontario,
+      Canada
+- name: Shao Hui Huang
+  affiliations:
+  - name: Department of Radiation Oncology, Princess Margaret Cancer Centre/University
+      of Toronto, Toronto, Ontario, Canada
+- name: Wei Xu
+  affiliations:
+  - name: Department of Biostatistics, Princess Margaret Cancer Center/University
+      of Toronto, Toronto, Ontario, Canada
+- name: John Cho
+  affiliations:
+  - name: Department of Radiation Oncology, Princess Margaret Cancer Centre/University
+      of Toronto, Toronto, Ontario, Canada
+- name: Jolie Ringash
+  affiliations:
+  - name: Department of Radiation Oncology, Princess Margaret Cancer Centre/University
+      of Toronto, Toronto, Ontario, Canada
+- name: Scott Bratman
+  affiliations:
+  - name: Department of Radiation Oncology, Princess Margaret Cancer Centre/University
+      of Toronto, Toronto, Ontario, Canada
+- name: Benjamin Haibe-Kains
+  affiliations:
+  - name: Princess Margaret Cancer Center, University Health Network, Toronto, Ontario,
+      Canada
+- name: Andrew Hope
+  affiliations:
+  - name: Department of Radiation Oncology, Princess Margaret Cancer Centre/University
+      of Toronto, Toronto, Ontario, Canada
+corresponding_contributor:
+  name: Benjamin Haibe-Kains
+  email: benjamin.haibe.kains@utoronto.ca
